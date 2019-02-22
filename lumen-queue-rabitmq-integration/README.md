@@ -1,1 +1,0 @@
-# lumen-queue-rabitmq-integration
